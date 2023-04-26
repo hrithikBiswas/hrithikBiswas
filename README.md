@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrithikbiswas" alt="hrithikbiswas" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://resume-sandy-one.vercel.app/](https://resume-sandy-one.vercel.app/)
