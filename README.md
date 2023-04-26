@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://resume-sandy-one.vercel.app/](https://resume-sandy-one.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://resume-sandy-one.vercel.app/work/work](https://resume-sandy-one.vercel.app/work/work)
 
 - 💬 Ask me about **React, PHP and WordPress Theme Customization**
 
