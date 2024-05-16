@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://resume-sandy-one.vercel.app/work/work](https://resume-sandy-one.vercel.app/work/work)
+- 👨‍💻 All of my projects are available at [https://hrithikbiswas.vercel.app/work](https://hrithikbiswas.vercel.app/work)
 
 - 💬 Ask me about **React, PHP and WordPress Theme Customization**
 
 - 📫 How to reach me **mr.hrithikbiswas@gmail.com**
 
-- 📄 Know about my experiences [https://resume-sandy-one.vercel.app/resume/resume](https://resume-sandy-one.vercel.app/resume/resume)
+- 📄 Know about my experiences [https://hrithikbiswas.vercel.app/resume](https://hrithikbiswas.vercel.app/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
