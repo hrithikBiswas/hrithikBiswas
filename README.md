@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hrithikbiswas.vercel.app/work](https://hrithikbiswas.vercel.app/work)
 
-- 💬 Ask me about **React, PHP and WordPress Theme Customization**
+- 💬 Ask me about **React, Next.js, PHP, and WordPress Theme Customization**
 
 - 📫 How to reach me **mr.hrithikbiswas@gmail.com**
 
