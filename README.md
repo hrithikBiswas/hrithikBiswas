@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D5616AQEoD2xfyfrIhg/profile-displaybackgroundimage-shrink_350_1400/B56ZyLHaa.IAAY-/0/1771860506207?e=1773273600&v=beta&t=2eQjNG68tO9_Lc97pkIJSXnLoRc3dxOh1-mOBIJVbnw"  />
+  <img height="300" src="https://media.licdn.com/dms/image/v2/D5616AQF3-jKJkSo1Lw/profile-displaybackgroundimage-shrink_350_1400/B56Z1j7sq4JwAc-/0/1775498089211?e=1776902400&v=beta&t=gAC1tuve4HLwqLHhBwY0f9lsfe8cfxMsIVZhavqP7_A"  />
 </div>
 
 ###
 
-<div>
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=false&text=Front-End%20Developer&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
 </div>
 
