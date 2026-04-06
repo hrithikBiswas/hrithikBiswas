@@ -4,7 +4,7 @@
 
 ###
 
-<div>
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=false&text=Front-End%20Developer&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
 </div>
 
